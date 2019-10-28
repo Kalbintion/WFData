@@ -250,6 +250,30 @@
 	
 	"//": "Other - Frame Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeLegLeftArmor": {
+		"Name": "Left Prisma Daedalus Knee Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeLegRightArmor": {
+		"Name": "Right Prisma Daedalus Knee Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeArmLeftArmor": {
+		"Name": "Left Prisma Daedalus Shoulder Guard",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeArmRightArmor": {
+		"Name": "Right Prisma Daedalus Shoulder Guard",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourTwo/BaroArmourTwoA": {
 		"Name": "Ki'Teer Foros Shoulder Plates",
 		"Type": "Cosmetic",
