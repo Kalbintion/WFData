@@ -338,6 +338,65 @@
 	
 	"//": "Europa",
 	
+	"SolNode203": {
+		"Planet": "Europa",
+		"Sector": "Abaddon"
+	},
+	
+	"SolNode204": {
+		"Planet": "Europa",
+		"Sector": "Armaros"
+	},
+	
+	"SolNode205": {
+		"Planet": "Europa",
+		"Sector": "Baal"
+	},
+	
+	"SolNode209": {
+		"Planet": "Europa",
+		"Sector": "Morax"
+	},
+	
+	"SolNode210": {
+		"Planet": "Europa",
+		"Sector": "Naamah"
+	},
+	
+	"SolNode211": {
+		"Planet": "Europa",
+		"Sector": "Ose"
+	},
+	
+	"SolNode212": {
+		"Planet": "Europa",
+		"Sector": "Paimon"
+	},
+	
+	"SolNode214": {
+		"Planet": "Europa",
+		"Sector": "Sorath"
+	},
+	
+	"SolNode215": {
+		"Planet": "Europa",
+		"Sector": "Valac"
+	},
+	
+	"SolNode216": {
+		"Planet": "Europa",
+		"Sector": "Valefor"
+	},
+	
+	"SolNode217": {
+		"Planet": "Europa",
+		"Sector": "Orias"
+	},
+	
+	"SolNode220": {
+		"Planet": "Europa",
+		"Sector": "Kokabiel"
+	},
 	
 	"//": "Saturn",
 	
@@ -604,6 +663,56 @@
 	"SolNode177": {
 		"Planet": "Sedna",
 		"Sector": "Kappa"
+	},
+	
+	"SolNode181": {
+		"Planet": "Sedna",
+		"Sector": "Adaro"
+	},
+	
+	"SolNode184": {
+		"Planet": "Sedna",
+		"Sector": "Rusalka"
+	},
+	
+	"SolNode185": {
+		"Planet": "Sedna",
+		"Sector": "Berehynia"
+	},
+	
+	"SolNode187": {
+		"Planet": "Sedna",
+		"Sector": "Selkie"
+	},
+	
+	"SolNode188": {
+		"Planet": "Sedna",
+		"Sector": "Kelpie"
+	},
+	
+	"SolNode189": {
+		"Planet": "Sedna",
+		"Sector": "Naga"
+	},
+	
+	"SolNode191": {
+		"Planet": "Sedna",
+		"Sector": "Marid"
+	},
+	
+	"SolNode193": {
+		"Planet": "Sedna",
+		"Sector": "Merrow"
+	},
+	
+	"SolNode195": {
+		"Planet": "Sedna",
+		"Sector": "Hydron"
+	},
+	
+	"SolNode196": {
+		"Planet": "Sedna",
+		"Sector": "Charybdis"
 	},
 	
 	"//": "Void",
