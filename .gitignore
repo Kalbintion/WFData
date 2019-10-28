@@ -3,3 +3,6 @@
 
 # Ignore internal tool conversion files
 /internal/ByInternalToByName/*.json
+
+# Temporarily ignoring /code/
+/code/*
