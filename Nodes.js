@@ -54,7 +54,7 @@ function translateNode(node) {
 			return "Ariel (Uranus)";
 		case "SolNode34": 
 			return "Sycorax (Uranus)";
-		case "SolNode36": 
+		case "SolNode36":
 			return "Martialis (Mars)";
 		case "SolNode38": 
 			return "Minthe (Pluto)";

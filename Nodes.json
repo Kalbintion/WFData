@@ -1,6 +1,31 @@
 {
 	"//": "Earth",
 	
+	"SolNode15": {
+		"Planet": "Earth",
+		"Sector": "Pacific"
+	},
+	
+	"SolNode24": {
+		"Planet": "Earth",
+		"Sector": "Oro"
+	},
+	
+	"SolNode26": {
+		"Planet": "Earth",
+		"Sector": "Lith"
+	},
+	
+	"SolNode27": {
+		"Planet": "Earth",
+		"Sector": "E Prime"
+	},
+	
+	"SolNode39": {
+		"Planet": "Earth",
+		"Sector": "Everest"
+	},
+	
 	"//": "Venus",
 	
 	"SolNode2": {
@@ -8,11 +33,64 @@
 		"Sector": "Aphrodite"
 	},
 	
+	"SolNode22": {
+		"Planet": "Venus",
+		"Sector": "Tessera"
+	},
+	
+	"SolNode23": {
+		"Planet": "Venus",
+		"Sector": "Cytherean"
+	},
+	
 	"//": "Mercury",
 	
+	"SolNode12": {
+		"Planet": "Mercury",
+		"Sector": "Elion"
+	},
 	
 	"//": "Mars",
 	
+	"SolNode11": {
+		"Planet": "Mars",
+		"Sector": "Tharsis"
+	},
+	
+	"SolNode14": {
+		"Planet": "Mars",
+		"Sector": "Ultor"
+	},
+	
+	"SolNode16": {
+		"Planet": "Mars",
+		"Sector": "Augustus"
+	},
+	
+	"SolNode30": {
+		"Planet": "Mars",
+		"Sector": "Olympus"
+	},
+	
+	"SolNode36": {
+		"Planet": "Mars",
+		"Sector": "Martialis"
+	},
+	
+	"SolNode41": {
+		"Planet": "Mars",
+		"Sector": "Arval"
+	},
+	
+	"SolNode45": {
+		"Planet": "Mars",
+		"Sector": "Ara"
+	},
+	
+	"SolNode46": {
+		"Planet": "Mars",
+		"Sector": "Spear"
+	},
 	
 	"//": "Ceres",
 	
@@ -24,18 +102,62 @@
 		"Sector": "Thebe"
 	},
 	
+	"SolNode25": {
+		"Planet": "Jupiter",
+		"Sector": "Callisto"
+	},
+	
 	"//": "Europa",
 	
 	
 	"//": "Saturn",
 	
+	"SolNode18": {
+		"Planet": "Saturn",
+		"Sector": "Rhea"
+	},
+	
+	"SolNode19": {
+		"Planet": "Saturn",
+		"Sector": "Enceladus"
+	},
+	
+	"SolNode20": {
+		"Planet": "Saturn",
+		"Sector", "Telesto"
+	},
+	
+	"SolNode31": {
+		"Planet": "Saturn",
+		"Sector": "Anthe"
+	},
+	
+	"SolNode32": {
+		"Planet": "Saturn",
+		"Sector": "Tethys"
+	},
+	
+	"SolNode42": {
+		"Planet": "Saturn",
+		"Sector": "Helene"
+	},
 	
 	"//": "Uranus",
 	
 	"SolNode9": {
 		"Planet": "Uranus",
 		"Sector": "Rosalind"
-	}
+	},
+	
+	"SolNode33": {
+		"Planet": "Uranus",
+		"Sector": "Ariel"
+	},
+	
+	"SolNode34": {
+		"Planet": "Uranus",
+		"Sector": "Sycorax"
+	},
 	
 	"//": "Neptune",
 	
@@ -49,12 +171,32 @@
 		"Sector": "Despina"
 	},
 	
+	"SolNode17": {
+		"Planet": "Neptune",
+		"Sector": "Proteus"
+	},
+	
 	"//": "Pluto",
 	
 	"SolNode4": {
 		"Planet": "Pluto",
 		"Sector": "Acheron"
-	},	
+	},
+	
+	"SolNode21": {
+		"Planet": "Pluto",
+		"Sector": "Narcissus"
+	},
+	
+	"SolNode38": {
+		"Planet": "Pluto",
+		"Sector": "Minthe"
+	},
+	
+	"SolNode43": {
+		"Planet": "Pluto",
+		"Sector": "Cerberus"
+	},
 	
 	"//": "Eris",
 	
