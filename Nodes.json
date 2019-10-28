@@ -46,6 +46,11 @@
 		"Sector": "Cambria"
 	},
 	
+	"SolNode89": {
+		"Planet": "Earth",
+		"Sector": "Mariana"
+	},
+	
 	"//": "Venus",
 	
 	"SolNode2": {
@@ -78,11 +83,66 @@
 		"Sector": "Unda"
 	},
 	
+	"SolNode101": {
+		"Planet": "Venus",
+		"Sector": "Kiliken"
+	},
+	
+	"SolNode104": {
+		"Planet": "Venus",
+		"Sector": "Fossa"
+	},
+	
+	"SolNode107": {
+		"Planet": "Venus",
+		"Sector": "Venera"
+	},
+	
+	"SolNode109": {
+		"Planet": "Venus",
+		"Sector": "Linea"
+	},
+	
+	"SolNode123": {
+		"Planet": "Venus",
+		"Sector": "V Prime"
+	},
+	
+	"SolNode128": {
+		"Planet": "Venus",
+		"Sector": "E Gate"
+	},
+	
+	"SolNode129": {
+		"Planet": "Venus",
+		"Sector": "Orb Vallis"
+	},
+	
 	"//": "Mercury",
 	
 	"SolNode12": {
 		"Planet": "Mercury",
 		"Sector": "Elion"
+	},
+	
+	"SolNode103": {
+		"Planet": "Mercury",
+		"Sector": "M Prime"
+	},
+	
+	"SolNode108": {
+		"Planet": "Mercury",
+		"Sector": "Tolstoj"
+	},
+	
+	"SolNode119": {
+		"Planet": "Mercury",
+		"Sector": "Caloris"
+	},
+	
+	"SolNode130": {
+		"Planet": "Mercury",
+		"Sector": "Lares"
 	},
 	
 	"//": "Mars",
@@ -142,8 +202,82 @@
 		"Sector": "Vallis"
 	},
 	
+	"SolNode99": {
+		"Planet": "Mars",
+		"Sector": "War"
+	},
+	
+	"SolNode106": {
+		"Planet": "Mars",
+		"Sector": "Alator"
+	},
+	
+	"SolNode113": {
+		"Planet": "Mars",
+		"Sector": "Ares"
+	},
+	
 	"//": "Ceres",
 	
+	"SolNode131": {
+		"Planet": "Ceres",
+		"Sector": "Pallas"
+	},
+	
+	"SolNode132": {
+		"Planet": "Ceres",
+		"Sector": "Bode"
+	},
+	
+	"SolNode135": {
+		"Planet": "Ceres",
+		"Sector": "Thon"
+	},
+	
+	"SolNode137": {
+		"Planet": "Ceres",
+		"Sector": "Nuovo"
+	},
+	
+	"SolNode138": {
+		"Planet": "Ceres",
+		"Sector": "Ludi"
+	},
+	
+	"SolNode139": {
+		"Planet": "Ceres",
+		"Sector": "Lex"
+	},
+	
+	"SolNode140": {
+		"Planet": "Ceres",
+		"Sector": "Kiste"
+	},
+	
+	"SolNode141": {
+		"Planet": "Ceres",
+		"Sector": "Ker"
+	},
+	
+	"SolNode144": {
+		"Planet": "Ceres",
+		"Sector": "Exta"
+	},
+	
+	"SolNode146": {
+		"Planet": "Ceres",
+		"Sector": "Draco"
+	},
+	
+	"SolNode147": {
+		"Planet": "Ceres",
+		"Sector": "Cinxia"
+	},
+	
+	"SolNode149": {
+		"Planet": "Ceres",
+		"Sector": "Casta"
+	},
 	
 	"//": "Jupiter",
 	
@@ -170,6 +304,36 @@
 	"SolNode74": {
 		"Planet": "Jupiter",
 		"Sector": "Carme",
+	},
+	
+	"SolNode88": {
+		"Planet": "Jupiter",
+		"Sector": "Adrastea"
+	},
+	
+	"SolNode97": {
+		"Planet": "Jupiter",
+		"Sector": "Amalthea"
+	},
+	
+	"SolNode100": {
+		"Planet": "Jupiter",
+		"Sector": "Elara"
+	},
+	
+	"SolNode121": {
+		"Planet": "Jupiter",
+		"Sector": "Carpo"
+	},
+	
+	"SolNode125": {
+		"Planet": "Jupiter",
+		"Sector": "Io"
+	},
+	
+	"SolNode126": {
+		"Planet": "Jupiter",
+		"Sector": "Metis"
 	},
 	
 	"//": "Europa",
@@ -222,6 +386,21 @@
 		"Sector": "Cassini"
 	},
 	
+	"SolNode82": {
+		"Planet": "Saturn",
+		"Sector": "Calypso"
+	},
+	
+	"SolNode93": {
+		"Planet": "Saturn",
+		"Sector": "Keeler"
+	},
+	
+	"SolNode96": {
+		"Planet": "Saturn",
+		"Sector": "Titan"
+	},
+	
 	"//": "Uranus",
 	
 	"SolNode9": {
@@ -247,6 +426,21 @@
 	"SolNode69": {
 		"Planet": "Uranus",
 		"Sector": "Ophelia"
+	},
+	
+	"SolNode83": {
+		"Planet": "Uranus",
+		"Sector": "Cressida"
+	},
+	
+	"SolNode114": {
+		"Planet": "Uranus",
+		"Sector": "Puck"
+	},
+	
+	"SolNode122": {
+		"Planet": "Uranus",
+		"Sector": "Stephano"
 	},
 	
 	"//": "Neptune",
@@ -284,6 +478,21 @@
 	"SolNode78": {
 		"Planet": "Neptune",
 		"Sector": "Triton"
+	},
+	
+	"SolNode84": {
+		"Planet": "Neptune",
+		"Sector": "Nereid"
+	},
+	
+	"SolNode118": {
+		"Planet": "Neptune",
+		"Sector": "Laomedeia"
+	},
+	
+	"SolNode127": {
+		"Planet": "Neptune",
+		"Sector": "Psamathe"
 	},
 	
 	"//": "Pluto",
@@ -338,11 +547,64 @@
 		"Sector": "Palus"
 	},
 	
+	"SolNode102": {
+		"Planet": "Pluto",
+		"Sector": "Oceanum"
+	},
+	
 	"//": "Eris",
 	
+	"SolNode153": {
+		"Planet": "Eris",
+		"Sector": "Brugia"
+	},
+	
+	"SolNode162": {
+		"Planet": "Eris",
+		"Sector": "Isos"
+	},
+	
+	"SolNode164": {
+		"Planet": "Eris",
+		"Sector": "Kala-azar"
+	},
+	
+	"SolNode166": {
+		"Planet": "Eris",
+		"Sector": "Nimus"
+	},
+	
+	"SolNode167": {
+		"Planet": "Eris",
+		"Sector": "Oestrus"
+	},
+	
+	"SolNode171": {
+		"Planet": "Eris",
+		"Sector": "Saxis"
+	},
+	
+	"SolNode172": {
+		"Planet": "Eris",
+		"Sector": "Xini"
+	},
+	
+	"SolNode173": {
+		"Planet": "Eris",
+		"Sector": "Solium"
+	},
+	
+	"SolNode175": {
+		"Planet": "Eris",
+		"Sector": "Naeglar"
+	},
 	
 	"//": "Sedna",
 	
+	"SolNode177": {
+		"Planet": "Sedna",
+		"Sector": "Kappa"
+	},
 	
 	"//": "Void",
 	
