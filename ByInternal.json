@@ -396,6 +396,12 @@
 	
 	"//": "Other - Syandana",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Scarves/VTHornSkullScarf": {
+		"Name": "Prisma Hecate Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf": {
 		"Name": "Prisma Yamako Syandana",
 		"Type": "Cosmetic",
