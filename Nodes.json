@@ -31,6 +31,21 @@
 		"Sector": "Eurasia"
 	},
 	
+	"SolNode63": {
+		"Planet": "Earth",
+		"Sector": "Mantle"
+	},
+	
+	"SolNode75": {
+		"Planet": "Earth",
+		"Sector": "Cervantes"
+	},
+	
+	"SolNode79": {
+		"Planet": "Earth",
+		"Sector": "Cambria"
+	},
+	
 	"//": "Venus",
 	
 	"SolNode2": {
@@ -51,6 +66,16 @@
 	"SolNode61": {
 		"Planet": "Venus",
 		"Sector": "Ishtar"
+	},
+	
+	"SolNode64": {
+		"Planet": "Venus",
+		"Sector": "Umbriel"
+	},
+	
+	"SolNode66": {
+		"Planet": "Venus",
+		"Sector": "Unda"
 	},
 	
 	"//": "Mercury",
@@ -107,6 +132,16 @@
 		"Sector": "Hellas"
 	},
 	
+	"SolNode65": {
+		"Planet": "Mars",
+		"Sector": "Gradivus"
+	},
+	
+	"SolNode68": {
+		"Planet": "Mars",
+		"Sector": "Vallis"
+	},
+	
 	"//": "Ceres",
 	
 	
@@ -125,6 +160,16 @@
 	"SolNode53": {
 		"Planet": "Jupiter",
 		"Sector": "Themisto"
+	},
+	
+	"SolNode73": {
+		"Planet": "Jupiter",
+		"Sector": "Ananke"
+	},
+	
+	"SolNode74": {
+		"Planet": "Jupiter",
+		"Sector": "Carme",
 	},
 	
 	"//": "Europa",
@@ -167,6 +212,16 @@
 		"Sector": "Numa"
 	},
 	
+	"SolNode67": {
+		"Planet": "Saturn",
+		"Sector": "Dione"
+	},
+	
+	"SolNode70": {
+		"Planet": "Saturn",
+		"Sector": "Cassini"
+	},
+	
 	"//": "Uranus",
 	
 	"SolNode9": {
@@ -187,6 +242,11 @@
 	"SolNode60": {
 		"Planet": "Uranus",
 		"Sector": "Caliban"
+	},
+	
+	"SolNode69": {
+		"Planet": "Uranus",
+		"Sector": "Ophelia"
 	},
 	
 	"//": "Neptune",
@@ -214,6 +274,16 @@
 	"SolNode57": {
 		"Planet": "Neptune",
 		"Sector": "Sao"
+	},
+	
+	"SolNode62": {
+		"Planet": "Neptune",
+		"Sector": "Neso"
+	},
+	
+	"SolNode78": {
+		"Planet": "Neptune",
+		"Sector": "Triton"
 	},
 	
 	"//": "Pluto",
@@ -251,6 +321,21 @@
 	"SolNode56": {
 		"Planet": "Pluto",
 		"Sector": "Cypress"
+	},
+	
+	"SolNode72": {
+		"Planet": "Pluto",
+		"Sector": "Outer Terminus"
+	},
+	
+	"SolNode76": {
+		"Planet": "Pluto",
+		"Sector": "Hydra"
+	},
+	
+	"SolNode81": {
+		"Planet": "Pluto",
+		"Sector": "Palus"
 	},
 	
 	"//": "Eris",
