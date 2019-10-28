@@ -1,0 +1,569 @@
+{
+  "Limbo": {
+    "Internal": "/Lotus/StoreItems/Powersuits/Magician/Magician",
+    "Type": "Frame"
+  },
+  "Ember": {
+    "Internal": "/Lotus/StoreItems/Powersuits/Ember/Ember",
+    "Type": "Frame"
+  },
+  "Prisma Tetra": {
+    "Internal": "/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+    "Type": "Primary",
+    "Subtype": "Rifle"
+  },
+  "Supra Vandal": {
+    "Internal": "/Lotus/StoreItems/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+    "Type": "Primary",
+    "Subtype": "Rifle"
+  },
+  "Vectis": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Rifle/TennoSniperRifle",
+    "Type": "Primary",
+    "Subtype": "Sniper Rifle"
+  },
+  "Hek": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Shotgun/QuadShotgun",
+    "Type": "Primary",
+    "Subtype": "Shotgun"
+  },
+  "Prisma Grakata": {
+    "Internal": "/Lotus/StoreItems/Weapons/VoidTrader/PrismaGrakata",
+    "Type": "Primary",
+    "Subtype": "Rifle"
+  },
+  "Kunai": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai",
+    "Type": "Secondary"
+  },
+  "Prisma Angstrum": {
+    "Internal": "/Lotus/StoreItems/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+    "Type": "Secondary"
+  },
+  "Viper Wraith": {
+    "Internal": "/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper",
+    "Type": "Secondary"
+  },
+  "Cestra": {
+    "Internal": "/Lotus/StoreItems/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
+    "Type": "Secondary"
+  },
+  "Bronco": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Pistol/HandShotGun",
+    "Type": "Secondary"
+  },
+  "Akbronco": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Akimbo/AkimboShotGun",
+    "Type": "Secondary"
+  },
+  "Bolto": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Pistol/CrossBow",
+    "Type": "Secondary"
+  },
+  "Kraken": {
+    "Internal": "/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrnHeavyPistol",
+    "Type": "Secondary"
+  },
+  "Vasto": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Pistol/RevolverPistol",
+    "Type": "Secondary"
+  },
+  "Furis": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Pistol/AutoPistol",
+    "Type": "Secondary"
+  },
+  "Mara Detron": {
+    "Internal": "/Lotus/StoreItems/Weapons/VoidTrader/VTDetron",
+    "Type": "Secondary"
+  },
+  "Silva & Aegis": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield",
+    "Type": "Melee",
+    "Subtype": "Sword & Shield"
+  },
+  "Furax": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/Fist/Fist",
+    "Type": "Melee",
+    "Subtype": "Fist"
+  },
+  "Machete Wraith": {
+    "Internal": "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon",
+    "Type": "Melee",
+    "Subtype": "Machete"
+  },
+  "Dual Cleavers": {
+    "Internal": "/Lotus/StoreItems/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon",
+    "Type": "Melee",
+    "Subtype": "Dual Swords"
+  },
+  "Dual Heat Swords": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords",
+    "Type": "Melee",
+    "Subtype": "Dual Swords"
+  },
+  "Obex": {
+    "Internal": "/Lotus/StoreItems/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon",
+    "Type": "Melee",
+    "Subtype": "Fist"
+  },
+  "Mire": {
+    "Internal": "/Lotus/StoreItems/Weapons/Infested/Melee/Swords/Mire/MireSword",
+    "Type": "Melee",
+    "Subtype": "Sword"
+  },
+  "Kogake": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/Brass Knuckles/BrassKnuckles",
+    "Type": "Melee",
+    "Subtype": "Fist"
+  },
+  "Ether Reaper": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon",
+    "Type": "Melee",
+    "Subtype": "Scythe"
+  },
+  "Heat Dagger": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/Dagger/Dagger",
+    "Type": "Melee",
+    "Subtype": "Dagger"
+  },
+  "Prisma Veritux": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+    "Type": "Archmelee"
+  },
+  "Prisma Shade": {
+    "Internal": "/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit",
+    "Type": "Companion",
+    "Subtype": "Sentinel"
+  },
+  "Primed Flow": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Warframe/Expert/AvatarPowerMaxModExpert",
+    "Type": "Mod",
+    "Subtype": "Frame"
+  },
+  "Primed Charged Shell": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert",
+    "Type": "Mod",
+    "Subtype": "Shotgun"
+  },
+  "Primed Bane of Corrupted": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorrupted",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Primed Bane of Grineer": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageGrineer",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Primed Bane of Corpus": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorpus",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Primed Bane of Infested": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Primed Ravage": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert",
+    "Type": "Mod",
+    "Subtype": "Shotgun"
+  },
+  "Primed Fast Hands": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponReloadSpeedModExpert",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Sweeping Serration": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponEventSlashDamageMod",
+    "Type": "Mod",
+    "Subtype": "Shotgun"
+  },
+  "Primed Point Blank": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert",
+    "Type": "Mod",
+    "Subtype": "Shotgun"
+  },
+  "Primed Cryo Rounds": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponFreezeDamageModExpert",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Crash Course": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponEventRifleImpactDamageMod",
+    "Type": "Mod",
+    "Subtype": "Rifle"
+  },
+  "Full Contact": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponEventShotgunImpactDamageMod",
+    "Type": "Mod",
+    "Subtype": "Shotgun"
+  },
+  "Maim": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponEventSlashDamageMod",
+    "Type": "Mod",
+    "Subtype": "Pistol"
+  },
+  "Primed Heated Charge": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert",
+    "Type": "Mod",
+    "Subtype": "Pistol"
+  },
+  "Pummel": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponEventPistolImpactDamageMod",
+    "Type": "Mod",
+    "Subtype": "Pistol"
+  },
+  "Buzz Kill": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponEventSlashDamageMod",
+    "Type": "Mod",
+    "Subtype": "Melee"
+  },
+  "Primed Pressure Point": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponMeleeDamageModExpert",
+    "Type": "Mod",
+    "Subtype": "Melee"
+  },
+  "Collision Force": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponEventMeleeImpactDamageMod",
+    "Type": "Mod",
+    "Subtype": "Melee"
+  },
+  "Primed Heavy Trauma": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert",
+    "Type": "Mod",
+    "Subtype": "Melee"
+  },
+  "Primed Morphic Transformer": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Archwing/Expert/ArchwingSuitAbilityStrengthModExpert",
+    "Type": "Mod",
+    "Subtype": "Archwing"
+  },
+  "Primed Regen": {
+    "Internal": "/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/PrimedRegen",
+    "Type": "Mod",
+    "Subtype": "Companion"
+  },
+  "Primed Animal Instinct": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarExpertMod",
+    "Type": "Mod",
+    "Subtype": "Companion"
+  },
+  "Prisma Companion Poster": {
+    "Internal": "/Lotus/StoreItems/Types/Items/ShipDecos/KubrowKavatLowPolyPoster",
+    "Type": "Decoration",
+    "Subtype": "Orbiter"
+  },
+  "Display - Argyle": {
+    "Internal": "/Lotus/StoreItems/Types/Items/ShipDecos/OrbiterPictureFrameBaro",
+    "Type": "Decoration",
+    "Subtype": "Orbiter"
+  },
+  "Liset Cydonia Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Liset/InarosLisetSkin",
+    "Type": "Skin",
+    "Subtype": "Orbiter"
+  },
+  "Zephyr Immortal Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Tengu/ZephyrAlternateSkin",
+    "Type": "Skin",
+    "Subtype": "Frame"
+  },
+  "Diriga Desert-Camo Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Camo/DesertDirigaSkin",
+    "Type": "Skin",
+    "Subtype": "Companion"
+  },
+  "Hydroid Immortal Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Pirate/HydroidAlternateSkin",
+    "Type": "Skin",
+    "Subtype": "Frame"
+  },
+  "Odonata Elixis Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisOdonataSkin",
+    "Type": "Skin",
+    "Subtype": "Archwing"
+  },
+  "Twin Grakata Towsun Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas",
+    "Type": "Skin",
+    "Subtype": "Secondary"
+  },
+  "Opticor Elixis Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisOpticor",
+    "Type": "Skin",
+    "Subtype": "Primary"
+  },
+  "Mirage Immortal Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Harlequin/MirageAlternateSkin",
+    "Type": "Skin",
+    "Subtype": "Frame"
+  },
+  "Liset Prisma Skin": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Liset/LisetSkinVoidTrader",
+    "Type": "Skin",
+    "Subtype": "Orbiter"
+  },
+  "Coccyst Sugatra": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/InfestedMeleeDangle",
+    "Type": "Cosmetic",
+    "Subtype": "Weapon"
+  },
+  "Hildryn Asuron Helmet Blueprint": {
+    "Internal": "/Lotus/StoreItems/Types/Recipes/Helmets/HildrynAltHelmetBlueprint",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Solo Earpiece": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/EarpieceBaroB",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Earpiece": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/EarpieceBaroA",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Eos Prime Armor Set": {
+    "Internal": "/Lotus/Types/StoreItems/Packages/VTEosArmourBundle",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Right Eos Prime Spurs": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLRArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Left Eos Prime Spurs": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLLArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Right Eos Prime Shoulder Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosARArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Left Eos Prime Shoulder Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosALArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Eos Prime Chest Plate": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosChestArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Atmos Oculus": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroVisor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Prisma Edo Chest Plate": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoChestArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Right Prisma Edo Knee Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoLegRightArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Left Prisma Edo Knee Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoLegLeftArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Right Prisma Edo Shoulder Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoArmRightArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Left Prisma Edo Shoulder Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoArmLeftArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Prisma Avia Shoulder Plate": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/PrismaFurisAArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Left Prisma Daedalus Knee Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeLegLeftArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Right Prisma Daedalus Knee Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeLegRightArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Left Prisma Daedalus Shoulder Guard": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeArmLeftArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Right Prisma Daedalus Shoulder Guard": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeArmRightArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Prisma Daedalus Chest PlatE": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeChestArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Foros Shoulder Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourTwo/BaroArmourTwoA",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Foros Chest Plate": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourTwo/BaroArmourTwoC",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Foros Leg Plates": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourTwo/BaroArmourTwoL",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Prisma Avia Chest Plate": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/PrismaFurisCArmor",
+    "Type": "Cosmetic",
+    "Subtype": "Frame"
+  },
+  "Ki'Teer Syandana": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Prisma Hecate Syandana": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Scarves/VTHornSkullScarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Prisma Yamako Syandana": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Scarves/VTDinoSpikeScarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Ki'Teer Razza Syandana": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape2Scarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Prisma Mech Head Sentinel Mask": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/PrismaMechHeadMask",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Prisma Koi Sentinel Tail": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/PrismaFishTail",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Prisma Jet Sentinel Wings": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrismaJetWings",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Kavat Sentinel Mask": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/KavatPetMask",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Kavat Sentinel Wings": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/KavatPetWings",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Kavat Sentinel Tail": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/KavatPetTail",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Ki'Teer Kubrow Armor": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/KubrowArmorBaro",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Ki'Teer Kavat Armor": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Catbrows/Armor/CatbrowArmorVoidTraderA",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Prisma Rostam Kubrow Armor": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Kubrows/Armor/KubrowArmorPrisma",
+    "Type": "Cosmetic",
+    "Subtype": "Companion"
+  },
+  "Orokin Tower Extraction Scene": {
+    "Internal": "/Lotus/StoreItems/Types/Items/MiscItems/PhotoboothTileOrokinExtraction",
+    "Type": "Captura Scene"
+  },
+  "Noggle Statue - Excalibur With Odonata": {
+    "Internal": "/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburArchwingBobbleHead",
+    "Type": "Noggle Statue"
+  },
+  "Noggle Statue - Baro Ki'Teer": {
+    "Internal": "/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerBobbleHead",
+    "Type": "Noggle Statue"
+  },
+  "Prisma Sigil": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeTraderSigil",
+    "Type": "Other"
+  },
+  "Prisma Kubrow Glyph": {
+    "Internal": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageLowPolyKubrow",
+    "Type": "Other",
+    "Subtype": "Glyph"
+  },
+  "Prisma Kavat Glyph": {
+    "Internal": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageLowPolyKavat",
+    "Type": "Other",
+    "Subtype": "Glyph"
+  },
+  "Ki'Teer Sekhara": {
+    "Internal": "/Lotus/StoreItems/Upgrades/Skins/Clan/BaroQuantumBadgeItem",
+    "Type": "Other"
+  },
+  "Orokin Catalyst": {
+    "Internal": "/Lotus/StoreItems/Types/Items/MiscItems/OrokinCatalyst",
+    "Type": "Other"
+  },
+  "Corrupted Bombard Specter Blueprint": {
+    "Internal": "/Lotus/StoreItems/Types/Recipes/Components/CorruptedBombardBallBlueprint",
+    "Type": "Blueprint",
+    "Subtype": "Specter"
+  },
+  "Sands of Inaros Blueprint": {
+    "Internal": "/Lotus/StoreItems/Types/Keys/MummyQuestKeyBlueprint",
+    "Type": "Blueprint",
+    "Subtype": "Quest"
+  },
+  "3 Day Affinity Booster": {
+    "Internal": "/Lotus/Types/StoreItems/Boosters/AffinityBooster3DayStoreItem",
+    "Type": "Consumable",
+    "Subtype": "Booster"
+  },
+  "3 Day Resource Booster": {
+    "Internal": "/Lotus/Types/StoreItems/Boosters/ResourceAmount3DayStoreItem",
+    "Type": "Consumable",
+    "Subtype": "Booster"
+  },
+  "Stalker Beacon": {
+    "Internal": "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait",
+    "Type": "Other"
+  },
+  "Axi A2 Relic": {
+    "Internal": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze",
+    "Type": "Relic"
+  },
+  "Fieldron": {
+    "Internal": "/Lotus/StoreItems/Types/Items/Research/EnergyComponent",
+    "Type": "Resource"
+  }
+}
