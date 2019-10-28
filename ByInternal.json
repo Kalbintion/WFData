@@ -45,6 +45,16 @@
 	
 	"//": "Secondaries",
 	
+	"/Lotus/StoreItems/Weapons/Tenno/ThrowingWeapons/Kunai": {
+		"Name": "Kunai",
+		"Type": "Secondary"
+	},
+	
+	"/Lotus/StoreItems/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum": {
+		"Name": "Prisma Angstrum",
+		"Type": "Secondary"
+	},
+	
 	"/Lotus/StoreItems/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper": {
 		"Name": "Viper Wraith",
 		"Type": "Secondary"
@@ -91,6 +101,12 @@
 	},
 	
 	"//": "Melee",
+	
+	"/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield": {
+		"Name": "Silva & Aegis",
+		"Type": "Melee",
+		"Subtype": "Sword & Shield"
+	},
 	
 	"/Lotus/StoreItems/Weapons/Tenno/Melee/Fist/Fist": {
 		"Name": "Furax",
@@ -152,7 +168,18 @@
 	
 	"//": "Archmelee",
 	
+	"/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon": {
+		"Name": "Prisma Veritux",
+		"Type": "Archmelee"
+	},
+	
 	"//": "Companions",
+	
+	"/Lotus/StoreItems/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit": {
+		"Name": "Prisma Shade",
+		"Type": "Companion",
+		"Subtype": "Sentinel"
+	},
 	
 	"//": "Mods - Frames",
 	
@@ -163,6 +190,36 @@
 	},
 	
 	"//": "Mods - Primaries",
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert": {
+		"Name": "Primed Charged Shell",
+		"Type": "Mod",
+		"Subtype": "Shotgun"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorrupted": {
+		"Name": "Primed Bane of Corrupted",
+		"Type": "Mod",
+		"Subtype": "Rifle"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageGrineer": {
+		"Name": "Primed Bane of Grineer",
+		"Type": "Mod",
+		"Subtype": "Rifle"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorpus": {
+		"Name": "Primed Bane of Corpus",
+		"Type": "Mod",
+		"Subtype": "Rifle"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested": {
+		"Name": "Primed Bane of Infested",
+		"Type": "Mod",
+		"Subtype": "Rifle"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert": {
 		"Name": "Primed Ravage",
@@ -294,6 +351,30 @@
 	
 	"//": "Other - Skins",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Liset/InarosLisetSkin": {
+		"Name": "Liset Cydonia Skin",
+		"Type": "Skin",
+		"Subtype": "Orbiter"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Tengu/ZephyrAlternateSkin": {
+		"Name": "Zephyr Immortal Skin",
+		"Type": "Skin",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Camo/DesertDirigaSkin": {
+		"Name": "Diriga Desert-Camo Skin",
+		"Type": "Skin",
+		"Subtype": "Companion"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Pirate/HydroidAlternateSkin": {
+		"Name": "Hydroid Immortal Skin",
+		"Type": "Skin",
+		"Subtype": "Frame"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/VoidTrader/ElixisOdonataSkin": {
 		"Name": "Odonata Elixis Skin",
 		"Type": "Skin",
@@ -333,6 +414,96 @@
 	},
 	
 	"//": "Other - Frame Cosmetics",
+	
+	"/Lotus/StoreItems/Types/Recipes/Helmets/HildrynAltHelmetBlueprint": {
+		"Name": "Hildryn Asuron Helmet Blueprint",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/EarpieceBaroB": {
+		"Name": "Ki'Teer Solo Earpiece",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/EarpieceBaroA": {
+		"Name": "Ki'Teer Earpiece",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/Types/StoreItems/Packages/VTEosArmourBundle": {
+		"Name": "Eos Prime Armor Set",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLRArmor": {
+		"Name": "Right Eos Prime Spurs",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosLLArmor": {
+		"Name": "Left Eos Prime Spurs",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosARArmor": {
+		"Name": "Right Eos Prime Shoulder Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosALArmor": {
+		"Name": "Left Eos Prime Shoulder Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/VTEos/VTEosChestArmor": {
+		"Name": "Eos Prime Chest Plate",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroVisor": {
+		"Name": "Ki'Teer Atmos Oculus",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoChestArmor": {
+		"Name": "Prisma Edo Chest Plate",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoLegRightArmor": {
+		"Name": "Right Prisma Edo Knee Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoLegLeftArmor": {
+		"Name": "Left Prisma Edo Knee Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoArmRightArmor": {
+		"Name": "Right Prisma Edo Shoulder Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetTwoSamurai/VTSetTwoArmLeftArmor": {
+		"Name": "Left Prisma Edo Shoulder Plates",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/PrismaFurisAArmor": {
 		"Name": "Prisma Avia Shoulder Plate",
@@ -396,6 +567,12 @@
 	
 	"//": "Other - Syandana",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape": {
+		"Name": "Ki'Teer Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Scarves/VTHornSkullScarf": {
 		"Name": "Prisma Hecate Syandana",
 		"Type": "Cosmetic",
@@ -415,6 +592,24 @@
 	},
 	
 	"//": "Other - Companion Cosmetics",
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/PrismaMechHeadMask": {
+		"Name": "Prisma Mech Head Sentinel Mask",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/PrismaFishTail": {
+		"Name": "Prisma Koi Sentinel Tail",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/PrismaJetWings": {
+		"Name": "Prisma Jet Sentinel Wings",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/KavatPetMask": {
 		"Name": "Kavat Sentinel Mask",
@@ -473,6 +668,23 @@
 	
 	"//": "Other",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeTraderSigil": {
+		"Name": "Prisma Sigil",
+		"Type": "Other"
+	},
+	
+	"/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageLowPolyKubrow": {
+		"Name": "Prisma Kubrow Glyph",
+		"Type": "Other",
+		"Subtype": "Glyph"
+	},
+	
+	"/Lotus/StoreItems/Types/StoreItems/AvatarImages/AvatarImageLowPolyKavat": {
+		"Name": "Prisma Kavat Glyph",
+		"Type": "Other",
+		"Subtype": "Glyph"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Clan/BaroQuantumBadgeItem": {
 		"Name": "Ki'Teer Sekhara",
 		"Type": "Other"
@@ -495,4 +707,34 @@
 		"Subtype": "Quest"
 	},
 	
+	"/Lotus/Types/StoreItems/Boosters/AffinityBooster3DayStoreItem": {
+		"Name": "3 Day Affinity Booster",
+		"Type": "Consumable",
+		"Subtype": "Booster"
+	},
+	
+	"/Lotus/Types/StoreItems/Boosters/ResourceAmount3DayStoreItem": {
+		"Name": "3 Day Resource Booster",
+		"Type": "Consumable",
+		"Subtype": "Booster"
+	},
+	
+	"/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
+		"Name": "Stalker Beacon",
+		"Type": "Other"
+	},
+	
+	"//": "Relics",
+	
+	"/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
+		"Name": "Axi A2 Relic",
+		"Type": "Relic"
+	},
+	
+	"//": "Resources",
+	
+	"/Lotus/StoreItems/Types/Items/Research/EnergyComponent": {
+		"Name": "Fieldron",
+		"Type": "Resource"
+	}
 }
