@@ -17,7 +17,7 @@ The following files are deemed to be 'Core Files' - What this means is that thes
 If there is an issue with any of the files, please report it on the Issues tracker. If you wish to take it a step further, feel free to fix the issue and make a pull request.
 
 # Other Formats
-Is there a data format that you would like to see here? If so, please report it on the issues tracker and it can be discussed about adding it. Note that all formats not already provided may require additional internal tools to be made to convert into that new format. Creating a tool to convert one of the base files (see Files section above)
+Is there a data format that you would like to see here? If so, please report it on the issues tracker and it can be discussed about adding it. Note that all formats not already provided may require additional internal tools to be made to convert into that new format. Creating a tool to convert one of the base files (see Core files section above) before creating your request would make it that much more likely to be accepted.
 
 # Tools
 Applications found under the Tools folder were created to aid in gathering information quickly from the game or from the wiki. These tools are provided as-is and may or may not work over time as things change.
