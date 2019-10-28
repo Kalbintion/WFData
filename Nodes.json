@@ -26,6 +26,11 @@
 		"Sector": "Everest"
 	},
 	
+	"SolNode59": {
+		"Planet": "Earth",
+		"Sector": "Eurasia"
+	},
+	
 	"//": "Venus",
 	
 	"SolNode2": {
@@ -41,6 +46,11 @@
 	"SolNode23": {
 		"Planet": "Venus",
 		"Sector": "Cytherean"
+	},
+	
+	"SolNode61": {
+		"Planet": "Venus",
+		"Sector": "Ishtar"
 	},
 	
 	"//": "Mercury",
@@ -92,6 +102,11 @@
 		"Sector": "Spear"
 	},
 	
+	"SolNode58": {
+		"Planet": "Mars",
+		"Sector": "Hellas"
+	},
+	
 	"//": "Ceres",
 	
 	
@@ -105,6 +120,11 @@
 	"SolNode25": {
 		"Planet": "Jupiter",
 		"Sector": "Callisto"
+	},
+	
+	"SolNode53": {
+		"Planet": "Jupiter",
+		"Sector": "Themisto"
 	},
 	
 	"//": "Europa",
@@ -142,6 +162,11 @@
 		"Sector": "Helene"
 	},
 	
+	"SolNode50": {
+		"Planet": "Saturn",
+		"Sector": "Numa"
+	},
+	
 	"//": "Uranus",
 	
 	"SolNode9": {
@@ -159,6 +184,11 @@
 		"Sector": "Sycorax"
 	},
 	
+	"SolNode60": {
+		"Planet": "Uranus",
+		"Sector": "Caliban"
+	},
+	
 	"//": "Neptune",
 	
 	"SolNode1": {
@@ -174,6 +204,16 @@
 	"SolNode17": {
 		"Planet": "Neptune",
 		"Sector": "Proteus"
+	},
+	
+	"SolNode49": {
+		"Planet": "Neptune",
+		"Sector": "Larissa"
+	},
+	
+	"SolNode57": {
+		"Planet": "Neptune",
+		"Sector": "Sao"
 	},
 	
 	"//": "Pluto",
@@ -196,6 +236,21 @@
 	"SolNode43": {
 		"Planet": "Pluto",
 		"Sector": "Cerberus"
+	},
+	
+	"SolNode48": {
+		"Planet": "Pluto",
+		"Sector": "Regna"
+	},
+	
+	"SolNode51": {
+		"Planet": "Pluto",
+		"Sector": "Hades"
+	},
+	
+	"SolNode56": {
+		"Planet": "Pluto",
+		"Sector": "Cypress"
 	},
 	
 	"//": "Eris",
