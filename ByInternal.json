@@ -108,7 +108,7 @@
 		"Name": "Dual Cleavers",
 		"Type": "Melee",
 		"Subtype": "Dual Swords"
-	}
+	},
 	
 	"/Lotus/StoreItems/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords": {
 		"Name": "Dual Heat Swords",
@@ -212,13 +212,13 @@
 		"Name": "Maim",
 		"Type": "Mod",
 		"Subtype": "Pistol"
-	}
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert": {
 		"Name": "Primed Heated Charge",
 		"Type": "Mod",
 		"Subtype": "Pistol"
-	}
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponEventPistolImpactDamageMod": {
 		"Name": "Pummel",
@@ -238,7 +238,7 @@
 		"Name": "Primed Pressure Point",
 		"Type": "Mod",
 		"Subtype": "Melee"
-	}
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponEventMeleeImpactDamageMod": {
 		"Name": "Collision Force",
@@ -298,7 +298,7 @@
 		"Name": "Odonata Elixis Skin",
 		"Type": "Skin",
 		"Subtype": "Archwing"		
-	}
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Skins/SummerSolstice/SummerSolsticeTwinGrakatas": {
 		"Name": "Twin Grakata Towsun Skin",
@@ -458,7 +458,7 @@
 	"/Lotus/StoreItems/Types/Items/ShipDecos/ExcaliburArchwingBobbleHead": {
 		"Name": "Noggle Statue - Excalibur With Odonata",
 		"Type": "Noggle Statue"
-	}
+	},
 	
 	"/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerBobbleHead": {
 		"Name": "Noggle Statue - Baro Ki'Teer",
@@ -487,6 +487,6 @@
 		"Name": "Sands of Inaros Blueprint",
 		"Type": "Blueprint",
 		"Subtype": "Quest"
-	}
+	},
 	
 }
