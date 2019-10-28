@@ -274,6 +274,12 @@
 		"Subtype": "Frame"
 	},
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/SetThreeWinged/VTSetThreeChestArmor": {
+		"Name": "Prisma Daedalus Chest PlatE",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Armor/BaroArmourTwo/BaroArmourTwoA": {
 		"Name": "Ki'Teer Foros Shoulder Plates",
 		"Type": "Cosmetic",
