@@ -1,0 +1,5 @@
+# Ignore internal tool bins
+/internal/*/bin/*
+
+# Ignore internal tool conversion files
+/internal/ByInternalToByName/*.json
