@@ -1,0 +1,74 @@
+{
+	"//": "Earth",
+	
+	"//": "Venus",
+	
+	"SolNode2": {
+		"Planet": "Venus",
+		"Sector": "Aphrodite"
+	},
+	
+	"//": "Mercury",
+	
+	
+	"//": "Mars",
+	
+	
+	"//": "Ceres",
+	
+	
+	"//": "Jupiter",
+	
+	"SolNode10": {
+		"Planet": "Jupiter",
+		"Sector": "Thebe"
+	},
+	
+	"//": "Europa",
+	
+	
+	"//": "Saturn",
+	
+	
+	"//": "Uranus",
+	
+	"SolNode9": {
+		"Planet": "Uranus",
+		"Sector": "Rosalind"
+	}
+	
+	"//": "Neptune",
+	
+	"SolNode1": {
+		"Planet": "Neptune",
+		"Sector": "Galatea"
+	},
+	
+	"SolNode6": {
+		"Planet": "Neptune",
+		"Sector": "Despina"
+	},
+	
+	"//": "Pluto",
+	
+	"SolNode4": {
+		"Planet": "Pluto",
+		"Sector": "Acheron"
+	},	
+	
+	"//": "Eris",
+	
+	
+	"//": "Sedna",
+	
+	
+	"//": "Void",
+	
+	
+	"//": "Kuva Fortress",
+	
+	
+	"//": "Other",
+	
+	
+}
