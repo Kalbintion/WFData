@@ -51,6 +51,16 @@
 		"Sector": "Mariana"
 	},
 	
+	"SolNode228": {
+		"Planet": "Earth",
+		"Sector": "Plains of Eidolon"
+	},
+	
+	"SolNode903": {
+		"Planet": "Earth",
+		"Sector": "Erpo"
+	},
+	
 	"//": "Venus",
 	
 	"SolNode2": {
@@ -118,6 +128,11 @@
 		"Sector": "Orb Vallis"
 	},
 	
+	"SolNode902": {
+		"Planet": "Venus",
+		"Sector": "Montes"
+	},
+	
 	"//": "Mercury",
 	
 	"SolNode12": {
@@ -143,6 +158,26 @@
 	"SolNode130": {
 		"Planet": "Mercury",
 		"Sector": "Lares"
+	},
+	
+	"SolNode223": {
+		"Planet": "Mercury",
+		"Sector": "Boethius"
+	},
+	
+	"SolNode224": {
+		"Planet": "Mercury",
+		"Sector": "Odin"
+	},
+	
+	"SolNode225": {
+		"Planet": "Mercury",
+		"Sector": "Suisei"
+	},
+	
+	"SolNode226": {
+		"Planet": "Mercury",
+		"Sector": "Pantheon"
 	},
 	
 	"//": "Mars",
@@ -215,6 +250,53 @@
 	"SolNode113": {
 		"Planet": "Mars",
 		"Sector": "Ares"
+	},
+	
+	"SolNode904": {
+		"Planet": "Mars",
+		"Sector": "Syrtis"
+	},
+	
+	"//": "Phobos",
+	
+	"SettlementNode1": {
+		"Planet": "Phobos",
+		"Sector": "Roche"
+	},
+	
+	"SettlementNode2": {
+		"Planet": "Phobos",
+		"Sector": "Skyresh"
+	},
+	
+	"SettlementNode3": {
+		"Planet": "Phobos",
+		"Sector": "Stickney"
+	},
+	
+	"SettlementNode11": {
+		"Planet": "Phobos",
+		"Sector": "Gullivar"
+	},
+	
+	"SettlementNode12": {
+		"Planet": "Phobos",
+		"Sector": "Monolith"
+	},
+	
+	"SettlementNode14": {
+		"Planet": "Phobos",
+		"Sector": "Shklovsky"
+	},
+	
+	"SettlementNode15": {
+		"Planet": "Phobos",
+		"Sector": "Sharpless"
+	},
+	
+	"SettlementNode20": {
+		"Planet": "Phobos",
+		"Sector": "Illiad"
 	},
 	
 	"//": "Ceres",
@@ -502,6 +584,11 @@
 		"Sector": "Stephano"
 	},
 	
+	"SolNode907": {
+		"Planet": "Uranus",
+		"Sector": "Caelus"
+	},
+	
 	"//": "Neptune",
 	
 	"SolNode1": {
@@ -552,6 +639,11 @@
 	"SolNode127": {
 		"Planet": "Neptune",
 		"Sector": "Psamathe"
+	},
+	
+	"SolNode908": {
+		"Planet": "Neptune",
+		"Sector": "Salacia"
 	},
 	
 	"//": "Pluto",
@@ -715,13 +807,126 @@
 		"Sector": "Charybdis"
 	},
 	
+	"//": "Lua",
+	
+	"SolNode300": {
+		"Planet": "Lua",
+		"Sector": "Plato"
+	},
+	
+	"SolNode301": {
+		"Planet": "Lua",
+		"Sector": "Grimaldi"
+	},
+	
+	"SolNode304": {
+		"Planet": "Lua",
+		"Sector": "Copernicus"
+	},
+	
+	"SolNode306": {
+		"Planet": "Lua",
+		"Sector": "Pavlov"
+	},
+	
+	"SolNode307": {
+		"Planet": "Lua",
+		"Sector": "Zeipel"
+	},
+	
 	"//": "Void",
 	
+	"SolNode400": {
+		"Planet": "Void",
+		"Sector": "Teshub"
+	},
+	
+	"SolNode401": {
+		"Planet": "Void",
+		"Sector": "Hepit"
+	},
+	
+	"SolNode402": {
+		"Planet": "Void",
+		"Sector": "Taranis"
+	},
+	
+	"SolNode403": {
+		"Planet": "Void",
+		"Sector": "Tiwaz"
+	},
+	
+	"SolNode404": {
+		"Planet": "Void",
+		"Sector": "Stribog"
+	},
+	
+	"SolNode405": {
+		"Planet": "Void",
+		"Sector": "Ani"
+	},
+	
+	"SolNode406": {
+		"Planet": "Void",
+		"Sector": "Ukko"
+	},
+	
+	"SolNode407": {
+		"Planet": "Void",
+		"Sector": "Oxomoco"
+	},
+	
+	"SolNode408": {
+		"Planet": "Void",
+		"Sector": "Belenus"
+	},
+	
+	"SolNode409": {
+		"Planet": "Void",
+		"Sector": "Mot"
+	},
+	
+	"SolNode410": {
+		"Planet": "Void",
+		"Sector": "Aten"
+	},
+	
+	"SolNode412": {
+		"Planet": "Void",
+		"Sector": "Mithra"
+	},
 	
 	"//": "Kuva Fortress",
 	
+	"SolNode745": {
+		"Planet": "Kuva Fortress",
+		"Sector": "Tamu"
+	},
+	
+	"SolNode748": {
+		"Planet": "Kuva Fortress",
+		"Sector": "Garus"
+	},
 	
 	"//": "Other",
 	
+	"SaturnHUB": {
+		"Planet": "Saturn",
+		"Sector": "Kronia Relay"
+	},
 	
+	"PlutoHUB": {
+		"Planet": "Pluto",
+		"Sector": "Orcus Relay"
+	},
+	
+	"MercuryHUB": {
+		"Planet": "Mercury",
+		"Sector": "Larunda Relay"
+	},
+	
+	"EarthHUB": {
+		"Planet": "Earth",
+		"Sector": "Strata Relay"
+	}
 }
