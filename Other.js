@@ -234,7 +234,7 @@ function translateNWChallenge(challenge) {
 		case "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklySabotageCaches": // 3
 			return "Find all caches in 3 Sabotage missions";
 		case "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyCompleteNightmareMissions": // 3
-			return "Complete 3 Nightwave missions of any type";
+			return "Complete 3 Nightmare missions of any type";
 		case "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklySimarisScan": // 5
 			return "Complete 5 Scans for Cephalon Simaris";
 		case "/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklySanctuaryOnslaught":
