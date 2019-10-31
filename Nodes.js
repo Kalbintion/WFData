@@ -296,6 +296,8 @@ function translateNode(node) {
 			return "Pavlov (Lua)";
 		case "SolNode307":
 			return "Zeipel (Lua)";
+		case "SolNode308":
+			return "Apollo (Lua)";
 		case "SolNode400":
 			return "Teshub (Void)";
 		case "SolNode401":

@@ -834,6 +834,11 @@
 		"Sector": "Zeipel"
 	},
 	
+	"SolNode308": {
+		"Planet": "Lua",
+		"Sector": "Apollo"
+	},
+	
 	"//": "Void",
 	
 	"SolNode400": {
