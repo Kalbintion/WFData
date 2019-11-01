@@ -23,7 +23,7 @@ function getDatas() {
 		
 		var response  = $.get(v, "", function(data) {
 			lastData = data;
-			var d = data.replace(/[\t\n ]/gi, "");
+			var d = data.replace(/[\t\r\n ]/gi, "");
 			console.log(data.length + " => " + d.length);
 			download(d, fileName + ".min." + fileExt, "text/plain");
 		}, "text");
