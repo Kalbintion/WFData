@@ -724,6 +724,11 @@
 		"Type": "Other"
 	},
 	
+	"/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGrendelVED": {
+		"Name": "Grendel In Action",
+		"Type": "Other"
+	}
+	
 	"//": "Relics",
 	
 	"/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
@@ -731,7 +736,32 @@
 		"Type": "Relic"
 	},
 	
+	"/Lotus/Types/Game/Projections/T5VoidProjectionImmortalDBronze": {
+		"Name": "Requiem IV Relic",
+		"Type": "Relic"
+	},
+	
+	"/Lotus/Types/Game/Projections/T5VoidProjectionImmortalCBronze": {
+		"Name": "Requiem III Relic",
+		"Type": "Relic"
+	},
+	
+	"/Lotus/Types/Game/Projections/T5VoidProjectionImmortalBBronze": {
+		"Name": "Requiem II Relic",
+		"Type": "Relic"
+	},
+	
+	"/Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze": {
+		"Name": "Requiem I Relic",
+		"Type": "Relic"
+	},
+	
 	"//": "Resources",
+	
+	"/Lotus/Types/Items/MiscItems/Forma": {
+		"Name": "Forma",
+		"Type": "Resource"
+	},
 	
 	"/Lotus/StoreItems/Types/Items/Research/EnergyComponent": {
 		"Name": "Fieldron",
