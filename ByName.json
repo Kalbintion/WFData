@@ -558,9 +558,33 @@
     "Internal": "/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait",
     "Type": "Other"
   },
+  "Grendel In Action": {
+    "Internal": "/Lotus/StoreItems/Types/StoreItems/AvatarImages/ImageGrendelVED",
+    "Type": "Other"
+  },
   "Axi A2 Relic": {
     "Internal": "/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze",
     "Type": "Relic"
+  },
+  "Requiem IV Relic": {
+    "Internal": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalDBronze",
+    "Type": "Relic"
+  },
+  "Requiem III Relic": {
+    "Internal": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalCBronze",
+    "Type": "Relic"
+  },
+  "Requiem II Relic": {
+    "Internal": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalBBronze",
+    "Type": "Relic"
+  },
+  "Requiem I Relic": {
+    "Internal": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalABronze",
+    "Type": "Relic"
+  },
+  "Forma": {
+    "Internal": "/Lotus/Types/Items/MiscItems/Forma",
+    "Type": "Resource"
   },
   "Fieldron": {
     "Internal": "/Lotus/StoreItems/Types/Items/Research/EnergyComponent",
