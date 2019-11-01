@@ -7,8 +7,8 @@
 <script src="download.js" type="text/javascript"></script>
 <script type="text/javascript">
 var targetURLS =
-	[	"https://raw.githubusercontent.com/Kalbintion/WFData/master/ByInternal.json",
-		"https://raw.githubusercontent.com/Kalbintion/WFData/master/ByName.json",
+	[	"../../ByInternal.json",
+		"../../ByName.json",
 	];
 	
 var lastData;
