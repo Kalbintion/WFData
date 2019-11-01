@@ -126,6 +126,11 @@
     "Type": "Melee",
     "Subtype": "Dagger"
   },
+  "Sibear": {
+    "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/Hammer/IceHammer/IceHammer",
+    "Type": "Melee",
+    "Subtype": "Hammer"
+  },
   "Prisma Veritux": {
     "Internal": "/Lotus/StoreItems/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
     "Type": "Archmelee"
