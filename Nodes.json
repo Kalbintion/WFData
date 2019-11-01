@@ -388,6 +388,11 @@
 		"Sector": "Carme"
 	},
 	
+	"SolNode87": {
+		"Planet": "Jupiter",
+		"Sector": "Ganymede"
+	},
+	
 	"SolNode88": {
 		"Planet": "Jupiter",
 		"Sector": "Adrastea"
