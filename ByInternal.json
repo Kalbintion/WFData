@@ -162,6 +162,12 @@
 		"Subtype": "Dagger"
 	},
 	
+	"/Lotus/StoreItems/Weapons/Tenno/Melee/Hammer/IceHammer/IceHammer": {
+		"Name": "Sibear",
+		"Type": "Melee",
+		"Subtype": "Hammer"
+	},
+	
 	"//": "Archwing",
 	
 	"//": "Archgun",
