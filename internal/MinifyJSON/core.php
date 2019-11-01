@@ -5,6 +5,7 @@
 
 <script src="jquery-3.4.1.min.js" type="text/javascript"></script>
 <script src="download.js" type="text/javascript"></script>
+<script src="minify.json.js" type="text/javascript"></script>
 <script type="text/javascript">
 var targetURLS =
 	[	"../../ByInternal.json",
@@ -23,7 +24,7 @@ function getDatas() {
 		
 		var response  = $.get(v, "", function(data) {
 			lastData = data;
-			var d = data.replace(/[\t\r\n ]/gi, "");
+			var d = JSON.minify(data);
 			console.log(data.length + " => " + d.length);
 			download(d, fileName + ".min." + fileExt, "text/plain");
 		}, "text");
