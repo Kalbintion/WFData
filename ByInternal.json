@@ -573,6 +573,42 @@
 	
 	"//": "Other - Syandana",
 	
+	"/Lotus/Upgrades/Skins/Scarves/PrimeScarfG": {
+		"Name": "Abbera Prime Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
+	"/Lotus/Upgrades/Skins/Scarves/SWAkSuraScarf": {
+		"Name": "Ak-Sura Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
+	"/Lotus/Upgrades/Skins/Scarves/PacifistSyandana": {
+		"Name": "Akrabu Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
+	"/Lotus/Upgrades/Skins/Scarves/SWRThreeAquirosScarf": {
+		"Name": "Aquiros Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
+	"/Lotus/Upgrades/Skins/Scarves/SWArcturusScarf": {
+		"Name": "Arcturus Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
+	"/Lotus/Upgrades/Skins/Scarves/SWAlyaScarf": {
+		"Name": "Ayla Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Syandana"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape": {
 		"Name": "Ki'Teer Syandana",
 		"Type": "Cosmetic",
