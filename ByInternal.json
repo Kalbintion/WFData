@@ -100,6 +100,11 @@
 		"Type": "Secondary"
 	},
 	
+	"/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrineerLightPistol": {
+		"Name": "Viper",
+		"Type": "Secondary"
+	},
+	
 	"//": "Melee",
 	
 	"/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield": {
