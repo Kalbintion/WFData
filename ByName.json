@@ -76,6 +76,10 @@
     "Internal": "/Lotus/StoreItems/Weapons/VoidTrader/VTDetron",
     "Type": "Secondary"
   },
+  "Viper": {
+    "Internal": "/Lotus/StoreItems/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
+    "Type": "Secondary"
+  },
   "Silva & Aegis": {
     "Internal": "/Lotus/StoreItems/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield",
     "Type": "Melee",
@@ -439,6 +443,36 @@
     "Internal": "/Lotus/StoreItems/Upgrades/Skins/Armor/FurisArmor/PrismaFurisCArmor",
     "Type": "Cosmetic",
     "Subtype": "Frame"
+  },
+  "Abbera Prime Syandana": {
+    "Internal": "/Lotus/Upgrades/Skins/Scarves/PrimeScarfG",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Ak-Sura Syandana": {
+    "Internal": "/Lotus/Upgrades/Skins/Scarves/SWAkSuraScarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Akrabu Syandana": {
+    "Internal": "/Lotus/Upgrades/Skins/Scarves/PacifistSyandana",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Aquiros Syandana": {
+    "Internal": "/Lotus/Upgrades/Skins/Scarves/SWRThreeAquirosScarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Arcturus Syandana": {
+    "Internal": "/Lotus/Upgrades/Skins/Scarves/SWArcturusScarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
+  },
+  "Ayla Syandana": {
+    "Internal": "/Lotus/Upgrades/Skins/Scarves/SWAlyaScarf",
+    "Type": "Cosmetic",
+    "Subtype": "Syandana"
   },
   "Ki'Teer Syandana": {
     "Internal": "/Lotus/StoreItems/Upgrades/Skins/Scarves/BaroCape",
