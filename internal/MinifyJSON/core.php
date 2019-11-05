@@ -10,6 +10,8 @@
 var targetURLS =
 	[	"../../ByInternal.json",
 		"../../ByName.json",
+		"../../Nightwave.json",
+		"../../Nodes.json"
 	];
 	
 var lastData;
