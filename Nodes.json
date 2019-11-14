@@ -824,6 +824,11 @@
 		"Sector": "Grimaldi"
 	},
 	
+	"SolNode302": {
+		"Planet": "Lua",
+		"Sector": "Tycho"
+	},
+	
 	"SolNode304": {
 		"Planet": "Lua",
 		"Sector": "Copernicus"
