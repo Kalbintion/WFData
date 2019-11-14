@@ -776,6 +776,12 @@
 		"Type": "Other"
 	},
 	
+	"/Lotus/StoreItems/Upgrades/Focus/WardLensGreater": {
+		"Name": "Greater Unairu Lens",
+		"Type": "Other",
+		"Subtype": "Focus Lens"
+	},
+	
 	"//": "Relics",
 	
 	"/Lotus/StoreItems/Types/Game/Projections/T4VoidProjectionPBronze": {
