@@ -13,6 +13,12 @@
 	
 	"//": "Primaries",
 	
+	"/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle": {
+		"Name": "Kohm",
+		"Type": "Primary",
+		"Subtype": "Shotgun"
+	},
+	
 	"/Lotus/StoreItems/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP": {
 		"Name": "Prisma Tetra",
 		"Type": "Primary",
