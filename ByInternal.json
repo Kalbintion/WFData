@@ -825,5 +825,51 @@
 	"/Lotus/StoreItems/Types/Items/Research/EnergyComponent": {
 		"Name": "Fieldron",
 		"Type": "Resource"
+	},
+	
+	"//": "Images - Frames",
+	
+	"//": "Images - Mods - Melee",
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree": {
+		"Name": "Eleventh Storm",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordWhipCmbOneMeleeTree": {
+		"Name": "Defiled Snapdragon",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbOneMeleeTree": {
+		"Name": "Gemini Cross",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbTwoMeleeTree": {
+		"Name": "Sovereign Outcast",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/WarfanCmbOneMeleeTree": {
+		"Name": "Slicing Feathers",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree": {
+		"Name": "Coiling Viper",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree": {
+		"Name": "Burning Wasp",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
 	}
 }
