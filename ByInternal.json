@@ -831,6 +831,30 @@
 	
 	"//": "Images - Mods - Melee",
 	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree": {
+		"Name": "Bleeding Willow",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbOneMeleeTree": {
+		"Name": "Grim Fury",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/PunchKickCmbTwoMeleeTree": {
+		"Name": "Brutal Tide",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/RapierCmbOneMeleeTree": {
+		"Name": "Vulpine Mask",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/RegorSwordShieldMeleeTree": {
 		"Name": "Final Harbinger",
 		"Type": "Mod Image",
