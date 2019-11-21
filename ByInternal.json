@@ -831,6 +831,26 @@
 	
 	"//": "Images - Mods - Melee",
 	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree": {
+		"Name": "Flailing Branch",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/StalkerSwordMeleeTree": {
+		"Name": "Vengeful Revenant",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordCmbTwoMeleeTree": {
+		"Name": "Swooping Falcon",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	" ": " ",
+	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree": {
 		"Name": "Eleventh Storm",
 		"Type": "Mod Image",
