@@ -831,6 +831,56 @@
 	
 	"//": "Images - Mods - Melee",
 	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbTwoMeleeTree": {
+		"Name": "Gnashing Pyara",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbOneMeleeTree": {
+		"Name": "Swirling Tiger",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbThreeMeleeTree": {
+		"Name": "Carving Mantis",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbTwoMeleeTree": {
+		"Name": "Crossing Snakes",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree": {
+		"Name": "Fracturing Wind",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbThreeMeleeTree": {
+		"Name": "Gaia's Tragedy",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbTwoMeleeTree": {
+		"Name": "Seismic Palm",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree": {
+		"Name": "Gleaming Talon",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	" ": " ",
+	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree": {
 		"Name": "Astral Twilight",
 		"Type": "Mod Image",
