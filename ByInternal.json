@@ -831,6 +831,54 @@
 	
 	"//": "Images - Mods - Melee",
 	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree": {
+		"Name": "Blind Justice",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbTwoMeleeTree": {
+		"Name": "Decisive Judgement",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/LongKatanaCmbOneMeleeTree": {
+		"Name": "Wise Razor",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbOneMeleeTree": {
+		"Name": "Sundering Weave",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbTwoMeleeTree": {
+		"Name": "Cyclone Kraken",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/NunchakuCmbOneMeleeTree": {
+		"Name": "Atlantis Vulcan",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree": {
+		"Name": "Shimmering Blight",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbThreeMeleeTree": {
+		"Name": "Twirling Spire",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree": {
 		"Name": "Bleeding Willow",
 		"Type": "Mod Image",
