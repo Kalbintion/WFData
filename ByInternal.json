@@ -831,6 +831,30 @@
 	
 	"//": "Images - Mods - Melee",
 	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/RegorSwordShieldMeleeTree": {
+		"Name": "Final Harbinger",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbOneMeleeTree": {
+		"Name": "Reaping Spiral",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbTwoMeleeTree": {
+		"Name": "Stalking Fan",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbOneMeleeTree": {
+		"Name": "Clashing Forest",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/StaffCmbTwoMeleeTree": {
 		"Name": "Flailing Branch",
 		"Type": "Mod Image",
@@ -848,8 +872,6 @@
 		"Type": "Mod Image",
 		"Subtype": "Melee"
 	},
-	
-	" ": " ",
 	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree": {
 		"Name": "Eleventh Storm",
