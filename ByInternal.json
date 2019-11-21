@@ -831,6 +831,48 @@
 	
 	"//": "Images - Mods - Melee",
 	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree": {
+		"Name": "Astral Twilight",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbOneMeleeTree": {
+		"Name": "Gun Blade",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbTwoMeleeTree": {
+		"Name": "Bullet Dance",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/HammerCmbOneMeleeTree": {
+		"Name": "Shattering Storm",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/HammerCmbTwoMeleeTree": {
+		"Name": "Crushing Ruin",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/IronPhoenixMeleeTree": {
+		"Name": "Iron Phoenix",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
+	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree": {
+		"Name": "Tranquil Cleave",
+		"Type": "Mod Image",
+		"Subtype": "Melee"
+	},
+	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbThreeMeleeTree": {
 		"Name": "Blind Justice",
 		"Type": "Mod Image",
