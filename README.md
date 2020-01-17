@@ -23,4 +23,4 @@ Is there a data format that you would like to see here? If so, please report it 
 Applications & examples found under the `tools` folder were created to aid in development and in the gathering of information quickly from the game or from the wiki. These tools are provided as-is and may or may not work over time as things change.
 
 # Internal
-Applications found under the `internal` folder are used for the repository itself to aid in converting information from one type to anotehr.
+Applications found under the `internal` folder are used for the repository itself to aid in converting information from one type to another.
