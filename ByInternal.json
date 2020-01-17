@@ -721,6 +721,17 @@
 	
 	"//": "Other",
 	
+	"/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusShotgunRandomModRare": {
+		"Name": "Shotgun Riven Mod",
+		"Type": "Other",
+		"Subtype": "Riven Mod"
+	},
+	
+	"/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint": {
+		"Name": "Orokin Catalyst Blueprint",
+		"Type": "Other"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeTraderSigil": {
 		"Name": "Prisma Sigil",
 		"Type": "Other"
@@ -878,8 +889,6 @@
 		"Type": "Mod Image",
 		"Subtype": "Melee"
 	},
-	
-	" ": " ",
 	
 	"/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree": {
 		"Name": "Astral Twilight",
