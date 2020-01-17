@@ -354,6 +354,12 @@
 	
 	"//": "Other - Orbiter Decorations",
 	
+	"/Lotus/StoreItems/Types/Items/ShipDecos/KavatBust": {
+		"Name": "Bronze Kavat Bust",
+		"Type": "Decoration",
+		"Subtype": "Orbiter"
+	},
+	
 	"/Lotus/StoreItems/Types/Items/ShipDecos/KubrowKavatLowPolyPoster": {
 		"Name": "Prisma Companion Poster",
 		"Type": "Decoration",
