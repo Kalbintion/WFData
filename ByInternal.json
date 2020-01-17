@@ -384,6 +384,14 @@
 		"Subtype": "Orbiter"
 	},
 	
+	"//": "Other - Operator Cosmetics",
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
+		"Name": "Ki'teer Cornu Diadem",
+		"Type": "Cosmetic",
+		"Subtype": "Operator"
+	},
+	
 	"//": "Other - Skins",
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Liset/LisetBlueSkySkinInaros": {
@@ -706,6 +714,24 @@
 	
 	"//": "Other - Companion Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/BaroPetWings": {
+		"Name": "Ki'teer Sentinel Wings",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Tails/BaroPetTail": {
+		"Name": "Ki'teer Sentinel Tail",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/BaroPetMask": {
+		"Name": "Ki'teer Sentinel Mask",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Masks/PrismaMechHeadMask": {
 		"Name": "Prisma Mech Head Sentinel Mask",
 		"Type": "Cosmetic",
@@ -780,6 +806,12 @@
 	},
 	
 	"//": "Other",
+	
+	"/Lotus/Types/StoreItems/Boosters/CreditBooster3DayStoreItem": {
+		"Name": "3 Day Credit Booster",
+		"Type": "Other",
+		"Subtype": "Booster"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Focus/PowerLensGreater": {
 		"Name": "Greater Zenurik Lens",
