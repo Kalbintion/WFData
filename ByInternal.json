@@ -368,6 +368,12 @@
 	
 	"//": "Other - Skins",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Liset/LisetBlueSkySkinInaros": {
+		"Name": "Scimitar Cydonia Skin",
+		"Type": "Skin",
+		"Subtype": "Orbiter"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Magician/LimboImmortalSkin": {
 		"Name": "Limbo Immortal Skin",
 		"Type": "Skin",
