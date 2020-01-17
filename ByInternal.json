@@ -368,6 +368,12 @@
 	
 	"//": "Other - Skins",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Magician/LimboImmortalSkin": {
+		"Name": "Limbo Immortal Skin",
+		"Type": "Skin",
+		"Subtype": "Frame"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Liset/InarosLisetSkin": {
 		"Name": "Liset Cydonia Skin",
 		"Type": "Skin",
@@ -720,6 +726,12 @@
 	},
 	
 	"//": "Other",
+	
+	"/Lotus/StoreItems/Upgrades/Focus/PowerLensGreater": {
+		"Name": "Greater Zenurik Lens",
+		"Type": "Other",
+		"Subtype": "Lens"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusShotgunRandomModRare": {
 		"Name": "Shotgun Riven Mod",
