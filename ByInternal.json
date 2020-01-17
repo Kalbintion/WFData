@@ -442,6 +442,12 @@
 	
 	"//": "Other - Weapon Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/VoidTrader/PrismaArrow": {
+		"Name": "Prisma Arrows",
+		"Type": "Cosmetic",
+		"Subtype": "Weapon"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/InfestedMeleeDangle": {
 		"Name": "Coccyst Sugatra",
 		"Type": "Cosmetic",
