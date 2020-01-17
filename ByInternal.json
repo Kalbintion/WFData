@@ -282,6 +282,18 @@
 	
 	"//": "Mods - Secondaries",
 	
+	"/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert": {
+		"Name": "Primed Slip Magazine",
+		"Type": "Mod",
+		"Subtype": "Pistol"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponCritChanceModBeginnerExpert": {
+		"Name": "Primed Pistol Gambit",
+		"Type": "Mod",
+		"Subtype": "Pistol"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponEventSlashDamageMod": {
 		"Name": "Maim",
 		"Type": "Mod",
@@ -455,6 +467,30 @@
 	},
 	
 	"//": "Other - Frame Cosmetics",
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesArmArmor": {
+		"Name": "Harkonar Wraith Arm Armor",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesChestArmor": {
+		"Name": "Harkonar Wraith Chest Armor",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesLegArmor": {
+		"Name": "Harkonar Wraith Leg Armor",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Scarves/WraithTurbinesScarf": {
+		"Name": "Harkonar Wraith Cloak",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
 	
 	"/Lotus/StoreItems/Types/Recipes/Helmets/HildrynAltHelmetBlueprint": {
 		"Name": "Hildryn Asuron Helmet Blueprint",
