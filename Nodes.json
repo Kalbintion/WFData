@@ -46,6 +46,11 @@
 		"Sector": "Cambria"
 	},
 	
+	"SolNode85": {
+		"Planet": "Earth",
+		"Sector": "Gaia"
+	},
+	
 	"SolNode89": {
 		"Planet": "Earth",
 		"Sector": "Mariana"
