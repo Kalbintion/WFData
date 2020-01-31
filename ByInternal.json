@@ -476,6 +476,12 @@
 	
 	"//": "Other - Frame Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/TnLatronArmor/TnLatronArmArmorPrisma": {
+		"Name": "Prisma Latron Shoulder Plate",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesArmArmor": {
 		"Name": "Harkonar Wraith Arm Armor",
 		"Type": "Cosmetic",
