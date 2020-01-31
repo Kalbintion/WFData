@@ -918,6 +918,11 @@
 	
 	"//": "Kuva Fortress",
 	
+	"SolNode741": {
+		"Planet": "Kuva Fortress",
+		"Sector": "Koro"
+	},
+	
 	"SolNode743": {
 		"Planet": "Kuva Fortress",
 		"Sector": "Rotuma"
