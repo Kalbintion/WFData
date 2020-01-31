@@ -386,6 +386,12 @@
 	
 	"//": "Other - Operator Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroTiara": {
+		"Name": "Ki'teer Atmos Diadem",
+		"Type": "Cosmetic",
+		"Subtype": "Operator"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroHorn": {
 		"Name": "Ki'teer Cornu Diadem",
 		"Type": "Cosmetic",
@@ -931,6 +937,11 @@
 	},
 	
 	"//": "Resources",
+	
+	"/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem": {
+		"Name": "Titanium",
+		"Type": "Resource"
+	},
 	
 	"/Lotus/Types/Items/MiscItems/Forma": {
 		"Name": "Forma",
