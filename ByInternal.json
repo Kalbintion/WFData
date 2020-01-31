@@ -320,6 +320,12 @@
 	
 	"//": "Mods - Melee",
 	
+	"/Lotus/StoreItems/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare": {
+		"Name": "Melee Riven Mod",
+		"Type": "Mod",
+		"Subtype": "Melee"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponEventSlashDamageMod": {
 		"Name": "Buzz Kill",
 		"Type": "Mod",
