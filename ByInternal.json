@@ -13,6 +13,12 @@
 	
 	"//": "Primaries",
 	
+	"/Lotus/StoreItems/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon": {
+		"Name": "Prisma Gorgon",
+		"Type": "Primary",
+		"Subtype": "Rifle"
+	},
+	
 	"/Lotus/StoreItems/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle": {
 		"Name": "Kohm",
 		"Type": "Primary",
@@ -352,6 +358,12 @@
 	
 	"//": "Mods - Companions",
 	
+	"/Lotus/StoreItems/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod": {
+		"Name": "Primed Pack Leader",
+		"Type": "Mod",
+		"Subtype": "Companion"
+	},
+	
 	"/Lotus/StoreItems/Types/Sentinels/SentinelPrecepts/PrimedRegen": {
 		"Name": "Primed Regen",
 		"Type": "Mod",
@@ -365,6 +377,42 @@
 	},
 	
 	"//": "Other - Orbiter Decorations",
+	
+	"/Lotus/StoreItems/Types/Game/QuartersWallpapers/BaroWallpaper": {
+		"Name": "Ki'teer Stencil",
+		"Type": "Decoration",
+		"Subtype": "Orbiter"
+	},
+	
+	"/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationA": {
+		"Name": "Mahd Luxxum Ornament",
+		"Type": "Decoration",
+		"Subtype": "Orbiter"
+	},
+	
+	"/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationB": {
+		"Name": "Akka Luxxum Ornament",
+		"Type": "Decoration",
+		"Subtype": "Orbiter"
+	},
+	
+	"/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationC": {
+		"Name": "Zag Luxxum Ornament",
+		"Type": "Decoration",
+		"Subtype": "Orbiter"
+	},
+	
+	"/Lotus/StoreItems/Types/Items/ShipDecos/BaroKiTeerDecorationD": {
+		"Name": "Dvad Luxxum Ornament",
+		"Type": "Decoration",
+		"Subtype": "Orbiter"
+	},
+	
+	"/Lotus/StoreItems/Types/Items/ShipDecos/Plushies/PlushyDesertSkate": {
+		"Name": "Desert Skate Floof",
+		"Type": "Decoration",
+		"Subtype": "Floof"
+	},
 	
 	"/Lotus/StoreItems/Types/Items/ShipDecos/KavatBust": {
 		"Name": "Bronze Kavat Bust",
@@ -481,6 +529,12 @@
 	},
 	
 	"//": "Other - Frame Cosmetics",
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Scarves/PrismaRazorScarf": {
+		"Name": "Prisma Uru Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Armor/TnLatronArmor/TnLatronArmArmorPrisma": {
 		"Name": "Prisma Latron Shoulder Plate",
@@ -726,6 +780,12 @@
 	
 	"//": "Other - Companion Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Skins/DesertTaxonSkin": {
+		"Name": "Taxon Desert-Camo Skin",
+		"Type": "Cosmetic",
+		"Subtype": "Companion"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Sentinels/Wings/BaroPetWings": {
 		"Name": "Ki'teer Sentinel Wings",
 		"Type": "Cosmetic",
@@ -839,6 +899,11 @@
 	
 	"/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint": {
 		"Name": "Orokin Catalyst Blueprint",
+		"Type": "Other"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Sigils/BaroKavatSigil": {
+		"Name": "Glaring Sigil",
 		"Type": "Other"
 	},
 	
