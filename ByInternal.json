@@ -13,6 +13,12 @@
 	
 	"//": "Primaries",
 	
+	"/Lotus/StoreItems/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal": {
+		"Name": "Quanta Vandal",
+		"Type": "Primary",
+		"Subtype": "Rifle"
+	},
+	
 	"/Lotus/StoreItems/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon": {
 		"Name": "Prisma Gorgon",
 		"Type": "Primary",
