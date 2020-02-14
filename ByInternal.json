@@ -963,6 +963,12 @@
 		"Subtype": "Riven Mod"
 	},
 	
+	"/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusPistolRandomModRare": {
+		"Name": "Pistol Riven Mod",
+		"Type": "Other",
+		"Subtype": "Riven Mod"
+	},
+	
 	"/Lotus/StoreItems/Types/Recipes/Components/OrokinCatalystBlueprint": {
 		"Name": "Orokin Catalyst Blueprint",
 		"Type": "Other"
