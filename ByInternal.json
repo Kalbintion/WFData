@@ -464,6 +464,12 @@
 	
 	"//": "Other - Operator Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/EarpieceBaroC": {
+		"Name": "Ki'teer Atmos Earpiece",
+		"Type": "Cosmetic",
+		"Subtype": "Operator"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Operator/Accessories/BaroTiara": {
 		"Name": "Ki'teer Atmos Diadem",
 		"Type": "Cosmetic",
