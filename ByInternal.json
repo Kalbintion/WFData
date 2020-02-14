@@ -981,7 +981,7 @@
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Sigils/BaroKavatSigil": {
 		"Name": "Glaring Sigil",
-		"Type": "Other"
+		"Type": "Other",
 		"Subtype": "Sigil"
 	},
 	
