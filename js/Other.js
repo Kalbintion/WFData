@@ -132,6 +132,10 @@ function translateMissionType(type) {
 			return "Rescue";
 		case "MT_ARTIFACT":
 			return "Disruption";
+		case "MT_LANDSCAPE":
+			return "Free Roam",
+		case "MT_EVACUATION":
+			return "Defection";
 		default:
 			return type;
 	}
