@@ -993,7 +993,7 @@
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeTraderSigil": {
 		"Name": "Prisma Sigil",
-		"Type": "Other"
+		"Type": "Other",
 		"Subtype": "Sigil"
 	},
 	
