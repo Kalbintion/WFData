@@ -572,6 +572,12 @@
 	
 	"//": "Other - Frame Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Scarves/KazBaroCape": {
+		"Name": "Ki'teer Diax Syandana",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Armor/TnLatronArmor/TnLatronLegArmorPrisma": {
 		"Name": "Prisma Latron Leg Plate",
 		"Type": "Cosmetic",
