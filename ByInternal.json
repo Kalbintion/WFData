@@ -961,6 +961,12 @@
 		"Type": "Other"
 	},
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Sigils/BaroKubrowSigil": {
+		"Name": "Pack Leader Sigil",
+		"Type": "Other",
+		"Subtype": "Sigil"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Sigils/PrimeTraderSigil": {
 		"Name": "Prisma Sigil",
 		"Type": "Other"
