@@ -1,11 +1,6 @@
 {
 	"//": "Frames",
 	
-	"/Lotus/StoreItems/Powersuits/Ember/Ember": {
-		"Name": "Ember",
-		"Type": "Frame"
-	},
-	
 	"/Lotus/StoreItems/Powersuits/Magician/Magician": {
 		"Name": "Limbo",
 		"Type": "Frame"
