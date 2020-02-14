@@ -490,6 +490,12 @@
 	
 	"//": "Other - Skins",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/Liset/Gyroscope/LisetGyroscopeSkinPrimeTrader": {
+		"Name": "Xiphos Prisma Skin",
+		"Type": "Skin",
+		"Subtype": "Orbiter"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/Liset/LisetBlueSkySkinInaros": {
 		"Name": "Scimitar Cydonia Skin",
 		"Type": "Skin",
@@ -1028,6 +1034,16 @@
 	
 	"/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBait": {
 		"Name": "Stalker Beacon",
+		"Type": "Other"
+	},
+	
+	"/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitB": {
+		"Name": "Zanuka Hunter Beacon",
+		"Type": "Other"
+	},
+	
+	"/Lotus/StoreItems/Types/Restoratives/Consumable/AssassinBaitC": {
+		"Name": "Grustrag Three Beacon",
 		"Type": "Other"
 	},
 	
