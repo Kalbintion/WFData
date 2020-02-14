@@ -214,6 +214,18 @@
 	
 	"//": "Mods - Primaries",
 	
+	"/Lotus/StoreItems/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert": {
+		"Name": "Primed Shotgun Ammo Mutation",
+		"Type": "Mod",
+		"Subtype": "Shotgun"
+	},
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Rifle/Expert/WeaponRifleConvertAmmoModExpert": {
+		"Name": "Primed Rifle Ammo Mutation",
+		"Type": "Mod",
+		"Subtype": "Rifle"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Mods/Rifle/EventSniperReloadDamageMod": {
 		"Name": "Primed Chamber",
 		"Type": "Mod",
@@ -293,6 +305,12 @@
 	},
 	
 	"//": "Mods - Secondaries",
+	
+	"/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert": {
+		"Name": "Primed Pistol Ammo Mutation",
+		"Type": "Mod",
+		"Subtype": "Pistol"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert": {
 		"Name": "Primed Slip Magazine",
@@ -541,6 +559,12 @@
 	},
 	
 	"//": "Other - Frame Cosmetics",
+	
+	"/Lotus/StoreItems/Upgrades/Skins/Armor/TnLatronArmor/TnLatronLegArmorPrisma": {
+		"Name": "Prisma Latron Leg Plate",
+		"Type": "Cosmetic",
+		"Subtype": "Frame"
+	},
 	
 	"/Lotus/StoreItems/Upgrades/Skins/Scarves/PrismaRazorScarf": {
 		"Name": "Prisma Uru Syandana",
