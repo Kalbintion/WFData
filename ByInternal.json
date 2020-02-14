@@ -558,16 +558,22 @@
 	
 	"//": "Other - Weapon Cosmetics",
 	
+	"/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/BaroInarosMeleeDangle": {
+		"Name": "Anpu Sugatra",
+		"Type": "Cosmetic",
+		"Subtype": "Melee"
+	},
+	
 	"/Lotus/StoreItems/Upgrades/Skins/VoidTrader/PrismaArrow": {
 		"Name": "Prisma Arrows",
 		"Type": "Cosmetic",
-		"Subtype": "Weapon"
+		"Subtype": "Bow"
 	},
 	
 	"/Lotus/StoreItems/Upgrades/Skins/MeleeDangles/InfestedMeleeDangle": {
 		"Name": "Coccyst Sugatra",
 		"Type": "Cosmetic",
-		"Subtype": "Weapon"
+		"Subtype": "Melee"
 	},
 	
 	"//": "Other - Frame Cosmetics",
